@@ -1,4 +1,28 @@
 :root {
-  --primary-color: #0076c6;
-  --blur: 10px;
+  --select-color: #9CD5EE;
+  --complete-color: #6FCF97;
+  --warning-color: #D2B867;
+  --error-color: #F05B5B;
+
+  --background-color: #080810;
+  --bar-color: #080810;
+  --text-main-color: #DEDEDE;
+  --text-header-color: #858585;
+  --border-lines-color: #666666;
+  --select-background-color: #ffffff2d;
+  --avatar-outline-color: #F4D7F332;
+
+  --sidebar-width: 260px;
+  --toolbar-width: 200px;
+  --sidebar-compact-width: 64px;
+  --toolbar-compact-width: 64px;
+
+  --sidebar-mobile-height-toggled: 64px;
+  --toolbar-mobile-height-toggled: 64px;
+  --sidebar-mobile-height: 100%;
+  --toolbar-mobile-height: 100%;
+
+  --bar-toggle-button-size: 36px;
+  --bar-toggled-gap: 20px;
+  --bar-toggled-button-padding: 5px;
 }
